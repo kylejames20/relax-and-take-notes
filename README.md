@@ -1,9 +1,10 @@
 # relax-and-take-notes
 It allows the user to take notes using node
 
-![generated HTML screen shot]()
+![generated HTML screen shot](./images/notetaker.png)
+![generated HTML screen shot](./images/notetaker2.png)
 
-
+[Live link to deployed Heroku](https://serene-ravine-46466.herokuapp.com/)
 
 <div id="top"></div>
 <!--
@@ -27,15 +28,13 @@ It allows the user to take notes using node
 
 ### Sources
 
-1. Node.js
+1. Heroku
 
-2. Inquirer NPM
+2. node.js
 
 3. JavaScript
 
-4. Jest
+4. Express
 
-<!-- CONTACT -->
-## Contact
 
-[Live link to Github Repository](https://github.com/kylejames20/theteamtheteamtheteam-generator)
+[Live link to Github Repository](https://github.com/kylejames20/relax-and-take-notes)
