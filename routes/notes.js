@@ -1,11 +1,8 @@
-const res = require('express/lib/response');
-
+const notesController = require('../controllers/notes'); 
 const note = require('express').Router();
 
-note.get('/', (req, res) => {
-    console.log('path');
-});
+note.get('/', notesController.getNotes);
 
-note.post('/', )
+note.post('/', notesController.newNote)
 
 module.exports = note;
