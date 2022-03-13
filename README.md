@@ -1,11 +1,9 @@
 # relax-and-take-notes
 It allows the user to take notes using node
 
-![generated HTML screen shot](./images/theteamtheteam.png)
+![generated HTML screen shot]()
 
-[Live link to theteam generator](https://youtu.be/FtjFlUOYNO8)
 
-[Live link to theteam generator testing](https://youtu.be/oZRRoy6kU_g)
 
 <div id="top"></div>
 <!--
