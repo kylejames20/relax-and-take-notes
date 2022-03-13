@@ -1,5 +1,5 @@
 # relax-and-take-notes
-It allows the user to take notes using node
+It allows the user to take notes using Heroku
 
 ![generated HTML screen shot](./images/notetaker.png)
 ![generated HTML screen shot](./images/notetaker2.png)
